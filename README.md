@@ -2,7 +2,7 @@
 
 ---
 
-# 🔌 ESP32 Multi-Function Voltameter
+# 🔌 ESP32 Multifunctional Tester
 
 A DIY digital multimeter made with an **ESP32** and a **0.91" OLED display**. This compact voltameter provides various electronic test features such as:
 - 📐 **Voltage Measurement**
