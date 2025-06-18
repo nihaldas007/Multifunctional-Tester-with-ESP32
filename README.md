@@ -1,15 +1,7 @@
-Here’s a complete `README.md` file for your **ESP32 Voltameter Project** with support for:
 
-* Voltage Measurement
-* Resistance Measurement
-* Diode Testing
-* Continuity Test
-* Analog Signal Reading
-* Servo Motor Testing
 
 ---
 
-```markdown
 # 🔌 ESP32 Multi-Function Voltameter
 
 A DIY digital multimeter made with an **ESP32** and a **0.91" OLED display**. This compact voltameter provides various electronic test features such as:
@@ -58,7 +50,6 @@ The 0.91-inch OLED displays real-time data with mode switching (button-based or 
 
 Add the following to your GitHub repo:
 
-```
 
 📁 /images
 ┣━ voltage\_demo.jpg
